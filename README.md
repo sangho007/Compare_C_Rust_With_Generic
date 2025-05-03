@@ -1,4 +1,4 @@
-# Compare_C_Rust_With_Generic
+# Compare_C_Rust_With_Memory_Safety
 
 <img width="430" alt="image" src="https://github.com/user-attachments/assets/885fc202-e1c6-43e4-9fef-6d411f9b0ed7" />
 
